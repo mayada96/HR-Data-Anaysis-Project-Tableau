@@ -1,6 +1,6 @@
 HR Data Analysis
 
-Dataset Information
+## Overview
 
 This dataset contains HR-related information about employees, including the following columns:
 •	empid: Employee ID
@@ -13,7 +13,7 @@ This dataset contains HR-related information about employees, including the foll
 •	leave balance: Employee's leave balance
 
 
-Analysis in Tableau
+## Analysis in Tableau
 
 The analysis of this dataset was performed using Tableau, and the following visuals were created to gain insights:
 
@@ -34,7 +34,7 @@ The analysis of this dataset was performed using Tableau, and the following visu
 8.	 Filtering Employees by Year of Joining: This visual allows users to filter employees based on the year they joined the company. It helps analyze trends and patterns related to the hiring of employees over time.
 
 
-Data Sources
+## Data Sources
 
 
 This data source is from 
@@ -47,7 +47,7 @@ https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWR
 - `HR Data Report.twbx` - Tableau file of the visualization.
 
 
-How to Use the Visuals
+## How to Use the Visuals
 
 
 1.	To view the visuals, open the Tableau workbook provided with this dataset.
@@ -56,7 +56,7 @@ How to Use the Visuals
 
 
 
-Conclusion
+## Conclusion
 
 
 The HR data analysis in Tableau provides valuable insights into various aspects of employee information. Use the visuals to make informed decisions, identify trends, and support HR-related strategies.
