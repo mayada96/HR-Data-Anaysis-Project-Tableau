@@ -43,7 +43,7 @@ https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWR
 ## Project Files
 
 
-- ` hr-data-analysis.csv` - dataset of the project.
+- `HR-Data-Analysis.csv` - dataset of the project.
 - `HR Data Report.twbx` - Tableau file of the visualization.
 
 
