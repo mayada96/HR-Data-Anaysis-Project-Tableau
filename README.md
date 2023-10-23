@@ -1,16 +1,16 @@
-HR Data Analysis
+# HR Data Analysis
 
 ## Overview
 
 This dataset contains HR-related information about employees, including the following columns:
--	empid: Employee ID
--	gender: Gender of the employee
--	education qualifications: Qualifications of the employee
--	date of join: Date when the employee joined the company
--	job title: Title of the employee's job
--	salary: Salary of the employee
--	age: Age of the employee
--	leave balance: Employee's leave balance
+-	`empid`: Employee ID
+-	`gender`: Gender of the employee
+-	`education qualifications`: Qualifications of the employee
+-	`date of join`: Date when the employee joined the company
+-	`job title`: Title of the employee's job
+-	`salary`: Salary of the employee
+-	`age`: Age of the employee
+-	`leave balance`: Employee's leave balance
 
 
 ## Analysis in Tableau
@@ -45,6 +45,7 @@ https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWR
 
 - `HR-Data-Analysis.csv` - dataset of the project.
 - `HR Data Report.twbx` - Tableau file of the visualization.
+- `README.md` - This document.
 
 
 ## How to Use the Visuals
@@ -60,5 +61,5 @@ https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWR
 
 
 The HR data analysis in Tableau provides valuable insights into various aspects of employee information. Use the visuals to make informed decisions, identify trends, and support HR-related strategies.
-For any further questions or assistance, please contact Mayada Yousuf at mayadayousuf96@gmail.com
+For any further questions or assistance, please contact `Mayada Yousuf` at mayadayousuf96@gmail.com
 
